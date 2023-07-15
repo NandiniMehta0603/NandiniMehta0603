@@ -5,9 +5,13 @@
 
 - 🔭 I’m currently working on [Tensorflow](https://github.com/NandiniMehta0603/Tensorflow)
 
+- 🏗 Trying to bring revolution in the field of education by AI at [Mennr](https://github.com/mennr-tech)
+
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Data Science, DSA, Front-End Development**
 
 - 📫 How to reach me **mehtanandini684@gmail.com**
+
+- ✨ Fun Fact: I do try to match vocals of Ariana Grande (PS sometimes reach there too :P)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
