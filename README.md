@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nandini Mehta</h1>
-<h3 align="center">A Pre-Final Year student at TIET</h3>
+<h1 align="center">Howdy 👋, I'm Nandini Mehta</h1>
+<h3 align="center">A CSE undergrad from TIET, India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47r78yzepp16q4i96ozn2brbi3mzwq8jf5p69cpk3v&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Tensorflow](https://github.com/NandiniMehta0603/Tensorflow)
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, DSA, Front-End Development**
+- 🌱 I’m currently learning **Generative AI, Machine Learning, Data Science, DSA, Front-End Development**
 
 - 📫 How to reach me **mehtanandini684@gmail.com**
 
