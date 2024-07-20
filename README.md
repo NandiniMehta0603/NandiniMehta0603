@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning **Backend Development, Generative AI, Machine Learning, Data Science, DSA**
 
-- 📫 How to reach me **mehtanandini684@gmail.com**
+- 📫 How to reach me **nandinimehta63@gmail.com**
 
 - ✨ Fun Fact: I do try to match vocals of Ariana Grande (PS sometimes reach there too :P)
 
